@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Singara",
+    "category": "Snacks",
+    "price": 10,
+    "description": "Crispy fried pastry filled with spicy potato and peas — a beloved Bangladeshi tea-time snack.",
+    "image": "https://i.ibb.co/r2MCCxwM/signgara.jpg",
+    "rating": 4.6,
+    "ingredients": ["Potato", "Peas", "Onion", "Chili", "Flour", "Cumin", "Oil", "Salt"]
+  },
+  {
+    "id": 2,
+    "name": "Samosa",
+    "category": "Snacks",
+    "price": 10,
+    "description": "Golden triangles stuffed with minced meat or vegetables, deep-fried to perfection.",
+    "image": "https://i.ibb.co/r2MCCxwM/signgara.jpg",
+    "rating": 4.7,
+    "ingredients": ["Flour", "Minced Beef", "Onion", "Garlic", "Chili", "Coriander", "Salt", "Oil"]
+  },
+  {
+    "id": 3,
+    "name": "Puri with Alur Torkari",
+    "category": "Breakfast",
+    "price": 10,
+    "description": "Fluffy fried puris served with spicy potato curry — a popular morning favorite.",
+    "image": "https://i.ibb.co/rRYfZ3xs/puri.jpg",
+    "rating": 4.5,
+    "ingredients": ["Flour", "Potato", "Onion", "Cumin", "Turmeric", "Chili", "Oil", "Salt"]
+  },
+  {
+    "id": 4,
+    "name": "Fuchka",
+    "category": "Street Food",
+    "price": 50,
+    "description": "Crispy hollow puris filled with spicy mashed potatoes and tamarind water — a tangy delight.",
+    "image": "https://i.ibb.co/XZwyr6dc/fuchka.jpg",
+    "rating": 4.9,
+    "ingredients": ["Semolina", "Flour", "Potato", "Tamarind", "Chili", "Coriander", "Salt", "Chickpeas"]
+  },
+  {
+    "id": 5,
+    "name": "Chotpoti",
+    "category": "Street Food",
+    "price": 50,
+    "description": "Tangy and spicy mix of chickpeas, potatoes, and boiled eggs served with tamarind sauce.",
+    "image": "https://i.ibb.co/C3N54XmG/chotpoti.jpg",
+    "rating": 4.8,
+    "ingredients": ["Chickpeas", "Potato", "Egg", "Onion", "Tamarind", "Cumin", "Chili", "Salt"]
+  },
+  {
+    "id": 6,
+    "name": "Tehari",
+    "category": "Rice Dishes",
+    "price": 85,
+    "description": "Aromatic rice cooked with beef and subtle spices, a favorite quick meal for lunch.",
+    "image": "https://i.ibb.co/VYy0cy9D/tehari.jpg",
+    "rating": 4.9,
+    "ingredients": ["Beef", "Rice", "Onion", "Garlic", "Ginger", "Yogurt", "Cardamom", "Cinnamon"]
+  },
+  {
+    "id": 7,
+    "name": "Kacchi Biryani",
+    "category": "Rice Dishes",
+    "price": 99,
+    "description": "Fragrant basmati rice layered with marinated mutton and potatoes — a festive delicacy.",
+    "image": "https://i.ibb.co/qFsZBK1j/kacchi.jpg",
+    "rating": 5.0,
+    "ingredients": ["Mutton", "Basmati Rice", "Potato", "Yogurt", "Onion", "Garlic", "Ginger", "Spices"]
+  },
+  {
+    "id": 8,
+    "name": "Morog Polao",
+    "category": "Rice Dishes",
+    "price": 130,
+    "description": "Comforting rice and lentil mix with tender chicken — everyone's favorite.",
+    "image": "https://i.ibb.co/N68hSVN3/morog-polao.jpg",
+    "rating": 4.7,
+    "ingredients": ["Chicken", "Basmati Rice", "Ghee", "Onion", "Cardamom", "Cloves", "Salt", "Raisins"]
+  },
+  {
+    "id": 9,
+    "name": "Chicken Grill",
+    "category": "Fast Food",
+    "price": 350,
+    "description": "Chicken cooked over direct high heat to create a seared exterior and moist interior.",
+    "image": "https://i.ibb.co/NdzYBhmb/chicken-grill.webp",
+    "rating": 4.6,
+    "ingredients": ["Chicken", "Garlic", "Yogurt", "Chili", "Lemon", "Salt", "Oil"]
+  },  
+  {
+    "id": 10,
+    "name": "Aloor Chop",
+    "category": "Fast Food",
+    "price": 10,
+    "description": "Mashed potatoes mixed with fresh cilantro, green chiles, and onion — Ramadan's favorite.",
+    "image": "https://i.ibb.co/5hVyRPbc/alur-chop.jpg",
+    "rating": 4.8,
+    "ingredients": ["Potato", "Onion", "Green Chili", "Coriander", "Gram Flour", "Oil", "Salt"]
+  },
+  {
+    "id": 11,
+    "name": "Beguni",
+    "category": "Fast Food",
+    "price": 10,
+    "description": "Simple, versatile, and delicious snack that is a staple during Ramadan for iftar.",
+    "image": "https://i.ibb.co/kVFY4N86/beguni.jpg",
+    "rating": 4.5,
+    "ingredients": ["Gram Flour", "Chili", "Turmeric", "Salt", "Oil"]
+  },
+  {
+    "id": 12,
+    "name": "Chicken Biryani Family Pack",
+    "category": "Snacks",
+    "price": 550,
+    "description": "Rice with marinated chicken, eggs, and borhani combo — crunchy, juicy, and full of flavor.",
+    "image": "https://i.ibb.co/mrZnXDwp/chiken-biryani-combo.jpg",
+    "rating": 4.6,
+    "ingredients": ["1 Chicken", "1 bowl Rice", "4 Egg", "0.5 liter Borhani", "Salad", "Spices"]
+  }
+]
